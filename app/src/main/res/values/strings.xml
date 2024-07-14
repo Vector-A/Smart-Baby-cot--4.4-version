@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Smart Baby cot -4.4 version</string>
+    <string name="connect">Online</string>
+    <string name="mode">Online</string>
+    <string name="mode1">Offline</string>
+    <string name="Temp">Temperature:</string>
+    <string name="Weight">Weight:</string>
+    <string name="Humidity">Humidity:</string>
+    <string name="Temp1">0</string>
+    <string name="Weight1">0</string>
+    <string name="Humidity1">0</string>
+    <string name="tUnit">degrees</string>
+    <string name="tWeight">KG</string>
+    <string name="tHumidity">%</string>
+</resources>
